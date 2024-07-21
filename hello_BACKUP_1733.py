@@ -10,7 +10,8 @@ for q in range(1000):
 
 
 
-
+<<<<<<< HEAD
+=======
 class Check:
     def __init__(self,number):
         self.number=number
@@ -21,5 +22,5 @@ class NiceWay:
         self.req=req
 
 
-
+>>>>>>> f253927c3ba893c80805f66ec6d6030bdccd4a13
 
