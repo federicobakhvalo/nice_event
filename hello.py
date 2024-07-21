@@ -9,3 +9,11 @@ for q in range(1000):
     print(q**2)
 
 
+
+class Check:
+    def __init__(self,number):
+        self.number=number
+
+
+
+
