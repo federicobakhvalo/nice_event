@@ -15,5 +15,9 @@ class Check:
         self.number=number
 
 
+class NiceWay:
+    def __init__(self,req):
+        self.req=req
+
 
 
