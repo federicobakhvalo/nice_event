@@ -9,6 +9,7 @@ for q in range(1000):
     print(q**2)
 
 
+print('hello_world_guys_and_everyone')
 
 
 class Check:
