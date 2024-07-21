@@ -19,3 +19,10 @@ class Check:
 
 
 
+
+def check():
+    return 'check'
+
+
+
+
