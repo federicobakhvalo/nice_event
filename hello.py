@@ -9,3 +9,5 @@ for q in range(1000):
     print(q**2)
 
 
+
+
