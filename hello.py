@@ -10,3 +10,4 @@ class Fib:
 
 
 print(Fib(10).number)
+print('nuic')
