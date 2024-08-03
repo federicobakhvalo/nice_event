@@ -12,6 +12,8 @@ for q in range(1000):
 print('hello_world_guys_and_everyone')
 
 
+print('nice_event_man')
+
 class Check:
     def __init__(self,number):
         self.number=number
